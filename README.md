@@ -2,18 +2,16 @@
 
 Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
-
 ```css
 .luck {
-  display:none;
+  display: none;
 }
 ```
 
-
 ```css
 .middle-finger {
-  display:flex;
-  justify-content:center;
+  display: flex;
+  justify-content: center;
 }
 ```
 
@@ -24,7 +22,7 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```
 
 ```css
-#me .lookingGood{
+#me .lookingGood {
   backface-visibility: hidden;
 }
 ```
@@ -37,18 +35,18 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 ```css
 .addams {
-  font-family: "do do do do clap clap";
+  font-family: 'do do do do clap clap';
 }
 ```
 
 ```css
 .bond {
-    color: #007;
+  color: #007;
 }
 ```
 
 ```css
-.books.last-opened{
+.books.last-opened {
   display: none;
 }
 ```
@@ -112,10 +110,9 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 ```css
 #johncena {
-  visibility:hidden;
-} 
+  visibility: hidden;
+}
 ```
-
 
 ```css
 #usa + #mexico {
@@ -710,7 +707,7 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 ```css
 #big-bang::before {
-  content: "";
+  content: '';
 }
 ```
 
@@ -859,7 +856,7 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 .skywalks {
   opacity: 0%;
   border: 0%;
-  content: "";
+  content: '';
 }
 ```
 
@@ -889,7 +886,7 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 
 ```css
 .internet-explorer {
-     break-inside:auto;
+  break-inside: auto;
 }
 ```
 
@@ -1059,32 +1056,32 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 }
 ```
 
-```css 
+```css
 .modest {
-    flex: 0%;
-  }
+  flex: 0%;
+}
 ```
 
 ```css
 .puns :: before {
-  content:  " ";
+  content: ' ';
 }
 ```
 
 ```css
 .puns :: after {
-  content:  " Stomach pain, Smile, Laugh";
+  content: ' Stomach pain, Smile, Laugh';
 }
 ```
 
 ```css
 .rich-people {
-  top:1%;
+  top: 1%;
 }
 ```
 
 ```css
-.working-class{
+.working-class {
   bottom: 99%;
 }
 ```
@@ -1098,5 +1095,11 @@ Do you know a CSS pun? 😄 Put it over here and make others laugh! 😉
 ```css
 #guy-lafleur {
   float: right;
+}
+```
+
+```css
+#starbucks {
+  color: #c0ffee;
 }
 ```
